@@ -7,7 +7,7 @@ Basic Weather App using React and OpenWeatherMap API:
   - Temperature (in °C)
   - Condition
   - Humidity
-  - Wind speed
+  - Wind speed (in m/s)
   - 5-day weather forecast
 
 
