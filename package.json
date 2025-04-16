@@ -1,9 +1,11 @@
 {
   "name": "basic-weather-app-react",
   "private": true,
+  "homepage": "https://dayeetag.github.io/basic-weather-app-react",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "deploy": "npm run build && gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
