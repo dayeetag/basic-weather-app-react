@@ -1,4 +1,4 @@
-**Basic Weather App using React and OpenWeatherMap API:**
+# Basic Weather App using React and OpenWeatherMap API:
 
 * A basic weather app developed using React which displays the weather of the city entered by the user in the input field
 * Weather details are fetched using the OpenWeatherMap API
